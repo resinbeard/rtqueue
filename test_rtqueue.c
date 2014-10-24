@@ -15,6 +15,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 Copyright 2014 murray foster 
 mrafoster at gmail dawt com */
 
+#include <stdio.h>
 #include <stdlib.h>
 #include "rtqueue.h"
 
