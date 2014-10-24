@@ -7,7 +7,7 @@ This header file provides a non-blocking queue intended for JACK samples, but ea
  - [JACK](http://jackaudio.org/)
 
 ## Building
-Copy the header file into your dev directory and include with your application source
+Copy the source files into your dev directory and include with your application source
 ```
 gcc -o test_rtqueue test_rtqueue.c rtqueue.c
 ```
