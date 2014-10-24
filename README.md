@@ -21,6 +21,6 @@ rtqueue_t *fifo_out = rtqueue_init(10000);
 
 while(1)
     if( !rtqueue_isempty(fifo_out) )
-        data = rtqueue_deq(fifo_out)
+        data = rtqueue_deq(fifo_out);
 
 ```
