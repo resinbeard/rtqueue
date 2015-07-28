@@ -1,7 +1,7 @@
 #RTQueue
 Non-blocking queue for JACK audio data
 
-This header file provides a non-blocking queue intended for JACK samples, but easily repurposed for other soft realtime applications. First used in Ficus, I found it useful for multiple JACK-related projects so it gets its own repository.
+This header file provides a queue intended for JACK samples, but easily repurposed for other soft realtime applications. First used in Ficus, I found it useful for multiple JACK-related projects so it gets its own repository.
 
 ## Dependencies
  - [JACK](http://jackaudio.org/)
